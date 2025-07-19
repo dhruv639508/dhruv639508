@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Rentora**
 
-- 👨‍💻 All of my projects are available at [dhruv639508](dhruv639508)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/dhruv639508)
 
 - 💬 Ask me about **DSA**
 
